@@ -1,0 +1,5 @@
+minimumReleaseAgeExclude:
+  - vite@8.1.0
+blockExoticSubdeps: false
+allowBuilds:
+  '@scarf/scarf': false
